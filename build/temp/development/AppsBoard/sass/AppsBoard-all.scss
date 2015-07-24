@@ -1483,4 +1483,5 @@ $AppsBoard-resource-path: 'images' !default;
 $current-package: false;
 $current-resource-root: $AppsBoard-resource-root;
 $relative-image-path-for-uis: $AppsBoard-resource-path;
+@import '../../../../../classic/sass/src/Application';
 @import '../../../../../classic/sass/src/view/main/Main';

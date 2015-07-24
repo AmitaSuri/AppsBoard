@@ -15,8 +15,8 @@ Ext.define('AppsBoard.view.dashboard.parts.TotalSales', {
         header: false,
         draggable: false,
         resizable: false,
-        //bodyCls: 'orangebg',
-        bodyStyle: {backgroundColor: '#FFA500'},
+        bodyCls: 'orangebg',
+        //bodyStyle: {backgroundColor: '#FFA500'},
         items: [{
             xtype: 'sparklineline',
             lineColor: '#FFFFFF',

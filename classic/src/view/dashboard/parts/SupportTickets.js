@@ -15,8 +15,8 @@ Ext.define('AppsBoard.view.dashboard.parts.SupportTickets', {
         header: false,
         draggable: false,
         resizable: false,
-        //bodyCls: 'greenbg',
-        bodyStyle: {backgroundColor: '#32CD32'},
+        bodyCls: 'greenbg',
+        //bodyStyle: {backgroundColor: '#32CD32'},
         items: [{
             xtype: 'sparklineline',
             lineColor: '#FFFFFF',

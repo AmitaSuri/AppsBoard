@@ -6188,6 +6188,18 @@ div.x-border-layout-ct {
     -ms-box-orient: horizontal;
     box-orient: horizontal;
 }
+/* http://localhost:1841/classic/sass/src/Application.scss:1 */
+.greenbg {
+    background-color: #32cd32;
+}
+/* http://localhost:1841/classic/sass/src/Application.scss:5 */
+.orangebg {
+    background-color: orange;
+}
+/* http://localhost:1841/classic/sass/src/Application.scss:9 */
+.cyanbg {
+    background-color: #00bfff;
+}
 /* http://localhost:1841/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
 .x-tab-navigation-top {
     -webkit-border-radius: 0;

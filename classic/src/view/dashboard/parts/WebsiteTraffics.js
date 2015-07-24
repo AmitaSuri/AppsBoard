@@ -15,8 +15,8 @@ Ext.define('AppsBoard.view.dashboard.parts.WebsiteTraffics', {
         header: false,
         draggable: false,
         resizable: false,
-       // bodyCls: 'cyanbg',
-        bodyStyle: {backgroundColor: '#00BFFF'},
+        bodyCls: 'cyanbg',
+        //bodyStyle: {backgroundColor: '#00BFFF'},
         items: [{
             xtype: 'sparklinebar',
             barColor: '#FFFFFF',
